@@ -4,6 +4,7 @@
 
 //1027.方格取数(三维数字三角形模型)
 //本题类似于1015.摘花生 1018.最低通行费
+//时间复杂度O(n ^ 3 ), 避免了n ^ 4
 #include <iostream>
 #include <algorithm>
 #include <cstring>
